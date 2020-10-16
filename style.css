@@ -1,0 +1,33 @@
+body {
+
+    background-color:#00072D;
+}
+
+.text {
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 700%;
+  
+    position: absolute;
+  
+    top: 50%; 
+}
+
+
+.beginning{
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+
+}
+
+.play{
+    width: 20%;
+    height: 50px;
+
+    position: absolute;
+    
+
+    top: 70%;
+    left: 40%;
+}
